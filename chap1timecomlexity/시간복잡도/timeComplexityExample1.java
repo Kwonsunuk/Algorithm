@@ -1,5 +1,3 @@
-package Chap1TimeComlexity.시간복잡도;
-
 public class timeComplexityExample1 {
     public static void main(String[] args) {
         /*
