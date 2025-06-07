@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "chap2datastructure",
-    "chap1timecomlexity/시간복잡도"
+    "chapter1_time_complexity/time_complexity",
+    "chapter2_data_structure/array_and_list_1",
+    "chapter2_data_structure/range_sum_2"
   ]
 }
