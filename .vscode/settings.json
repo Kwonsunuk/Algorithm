@@ -1,10 +1,11 @@
 {
   "java.project.sourcePaths": [
     "chapter2_data_structure/two_pointer_3",
+    "chapter2_data_structure/sliding_window_4",
     "chapter2_data_structure/range_sum_2",
     "chapter2_data_structure/array_and_list_1",
     "chapter1_time_complexity/time_complexity",
-    "chapter2_data_structure/sliding_window_4"
+    "chapter2_data_structure/stack_que_5"
   ],
   "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
 }
